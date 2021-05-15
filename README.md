@@ -1,1 +1,1 @@
-# autotrading_bot
+# autotrading_setup 
